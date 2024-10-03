@@ -1,7 +1,6 @@
 import os, json, requests, random, time, runpod
 
-import tempfile
-
+import trimesh
 import numpy as np
 import rembg
 import torch
