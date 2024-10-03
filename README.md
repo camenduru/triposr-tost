@@ -15,7 +15,7 @@ https://arxiv.org/abs/2403.02151
 https://www.tripo3d.ai/
 
 ### 🖼 Output
-![Screenshot 2024-10-03 213528](https://github.com/user-attachments/assets/00e6d068-4e0b-4ce3-8da9-3cdda58796e1)
+<img width="768" alt="Screenshot 2024-10-03 22213ds3" src="https://github.com/user-attachments/assets/0647c49e-960d-4c3d-8f5e-e8ec1b931d8d">
 
 ### 🏢 Sponsor
 https://runpod.io
